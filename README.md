@@ -147,9 +147,9 @@ jO/ZO0G0sllxcEZNpgYa/khrWM5veuFnjmrM1YYPDHA+oI4nzyBa/CdBy7Hh/6BJ
 ZhNM0/h1Vh2TkcAvzqtS
 =OFdA
 \
----BEGIN PGP PUBLIC KEY BLOCK-----
+---END PGP PUBLIC KEY BLOCK-----
 
------END PGP PUBLIC KEY BLOCK----- \
+
 
 
 <!---
