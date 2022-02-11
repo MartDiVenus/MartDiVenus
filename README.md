@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartDiVenus
 - 👀 I’m interested in happiness.
 - 📫 My e-mail is marfant7@gmail.com
-and my gpg public key is:
+and my gpg public key is: \
  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF5gF8oBEADBiaKZJG0LWJInQISq07+JlFq9a+QUaa/gQP57+AdnaCLZBAik
