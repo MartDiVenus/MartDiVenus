@@ -4,6 +4,9 @@
 and my gpg public key is: \
 https://github.com/MartDiVenus/MartDiVenus/blob/main/mario-fantini.public.asc
 
+As soon as I'll straighten up my works, I'll move tar.xz packages, their integrities, their signatures on a different server;
+and I'll extract their last versions in github branches: to respect github form/universe finally.
+
 
 
 <!---
