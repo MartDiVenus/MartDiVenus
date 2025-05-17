@@ -1,10 +1,7 @@
 - 👋 AHi, I’m @MartDiVenus
 - 👀 I’m interested in happiness.
-- 📫 My e-mail is marfant7@gmail.com
-and my gpg public key is: \
-https://github.com/MartDiVenus/MartDiVenus/blob/main/mario-fantini.public.asc
 
-Archives and signatures are available at following link \
+Archives are available at following link \
 https://drive.google.com/drive/folders/1ySKJwlJnoYrkkalf8RblEAdgr3cU9p7n?usp=drive_link
 
 <!---
